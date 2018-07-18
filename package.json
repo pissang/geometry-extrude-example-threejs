@@ -1,0 +1,15 @@
+{
+  "name": "geometry-extrude-example-threejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.2",
+    "geometry-extrude": "^0.1.1",
+    "three": "^0.94.0"
+  }
+}
